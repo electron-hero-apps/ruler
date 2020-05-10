@@ -1,0 +1,10 @@
+{
+    "width": 800,
+    "height": 150,
+    "webPreferences": {
+        "nodeIntegration": true
+    },
+    "frame": true,
+    "transparent": true,
+    "titleBarStyle": "hidden"
+}
